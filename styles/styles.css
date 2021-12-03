@@ -1,8 +1,14 @@
+html{
+font-size: 10px;
+font-family:Arial, Helvetica, sans-serif;
+}
+
 h1 {color: dodgerblue;
-    font-size: 48px;
+    text-decoration: underline;
+    font-size: 4.8rem;
 }
 
 p{
-    font-size: 18px;
-    letter-spacing: 2px;
+    font-size: 1.8rem;
+    letter-spacing: 1px;
 }
